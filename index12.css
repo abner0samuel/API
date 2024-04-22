@@ -25,3 +25,11 @@ input{font-size: 1rem;}
 .hide{
     display: none;
 }
+label{
+    font-size:3rem;
+    font-weight:800;
+    
+}
+input:first-of-type{
+    color: blue;
+}
